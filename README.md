@@ -1,2 +1,3 @@
 # hello-world
-Hello world tutorial repository
+
+Just doing my thing, learning about GitHub, aint nothin'.
